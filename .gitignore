@@ -1,0 +1,13 @@
+*.suo
+*.testlog
+.vs/MarsRover/v16/TestStore/0/testlog.manifest
+MarsRover.Api/bin/
+MarsRover.Console.TestProject/bin/
+MarsRover.Console.TestProject/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+MarsRover.Console.TestProject/obj/Debug/netcoreapp3.1/MarsRover.Console.TestProject.AssemblyInfo.cs
+MarsRover.Console.TestProject/obj/Debug/
+MarsRover.TestProject/bin/
+MarsRover.TestProject/obj/Debug/
+MarsRover.Console/obj/Debug/
+Pages/
+wwwroot/
